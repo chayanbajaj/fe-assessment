@@ -23,7 +23,6 @@ const JobsTable: React.FC = () => {
   const [jobs, setJobs] = useState<Job[]>([]);
   const [isComponentFocused, setComponentFocused] = useState(false);
 
-  // eslint-disable-next-line consistent-return
   useEffect(() => {
     const handleFocusChange = () => {
       setComponentFocused(document.hasFocus());
@@ -38,6 +37,7 @@ const JobsTable: React.FC = () => {
         window.removeEventListener('blur', handleFocusChange);
       };
     }
+    return undefined;
   }, []);
 
   useEffect(() => {
