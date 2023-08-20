@@ -54,7 +54,7 @@
 
 .modal-heading {
   color: var(--dark-dark-1, #182021);
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -64,7 +64,7 @@
 .modal-step-number {
   color: var(--dark-dark-1, #182021);
   text-align: right;
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;

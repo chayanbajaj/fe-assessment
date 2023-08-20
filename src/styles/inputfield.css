@@ -6,7 +6,7 @@
   display: block;
   margin-bottom: 4px;
   color: var(--font-dark-212121, #212121);
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -22,7 +22,7 @@
   align-self: stretch;
   border: 1px solid var(--elements-color-card-border-e-6-e-6-e-6, #e6e6e6);
   color: var(--font-grey-27-a-7-a-7-a, #7a7a7a);
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;

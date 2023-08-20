@@ -23,7 +23,7 @@
 
 .job-title {
   color: #000;
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -32,7 +32,7 @@
 
 .company-industry {
   color: #000;
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -41,7 +41,7 @@
 
 .job-location {
   color: var(--font-grey-27-a-7-a-7-a, #7a7a7a);
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -51,7 +51,7 @@
 
 .extra-info {
   color: #212427;
-  font-family: Poppins;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
