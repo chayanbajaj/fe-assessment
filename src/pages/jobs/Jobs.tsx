@@ -24,4 +24,4 @@ const Jobs = () => {
   );
 };
 
-export { Jobs };
+export default Jobs;
