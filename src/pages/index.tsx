@@ -1,4 +1,4 @@
-import { Jobs } from '../jobs/Jobs';
+import { Jobs } from './jobs/Jobs';
 
 const Index = () => <Jobs />;
 

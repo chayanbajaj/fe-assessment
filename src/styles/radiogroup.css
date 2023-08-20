@@ -1,0 +1,16 @@
+.radio-group-heading {
+  color: var(--font-dark-212121, #212121);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  display: flex;
+}
+
+.radio-options {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,30 @@
+.input-field {
+  margin-bottom: 24px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--font-dark-212121, #212121);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: 5px;
+  align-items: flex-start;
+  gap: 10px;
+  align-self: stretch;
+  border: 1px solid var(--elements-color-card-border-e-6-e-6-e-6, #e6e6e6);
+  color: var(--font-grey-27-a-7-a-7-a, #7a7a7a);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}

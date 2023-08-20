@@ -1,0 +1,14 @@
+.radio-button {
+  display: flex;
+  align-items: center;
+  color: var(--font-grey-27-a-7-a-7-a, #7a7a7a);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.radio-input {
+    margin-right: 4px;
+}

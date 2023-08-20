@@ -1,0 +1,70 @@
+.card-container {
+  display: flex;
+  width: 830px;
+  padding: 16px 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  align-self: stretch;
+  border-radius: 10px;
+  border: 1px solid #dadedf;
+  background: var(--elements-color-card-color-ffffff, #fff);
+  margin: 79px;
+  position: relative;
+}
+
+.job-card-container {
+  display: flex;
+}
+
+.job-card-image {
+  margin-right: 8px;
+}
+
+.job-title {
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 133.333% */
+}
+
+.company-industry {
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+
+.job-location {
+  color: var(--font-grey-27-a-7-a-7-a, #7a7a7a);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  margin-bottom: 24px;
+}
+
+.extra-info {
+  color: #212427;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+.job-card-control {
+    position: absolute;
+    right: 0;
+    margin: 24px;
+}
+
+.icon {
+    margin-right: 10px;
+}
